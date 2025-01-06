@@ -4,7 +4,7 @@ This project is a clone of the Obys website, featuring smooth scrolling animatio
 - Smooth scrolling with Locomotive Scroll
 - Scroll-triggered animations using GSAP and ScrollTrigger
 - Responsive design
-#Acknowledgedgment
+## Acknowledgedgment
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sheryjs/dist/Shery.css" />
     <!-- <link rel="stylesheet" href="https://unpkg.com/sheryjs/dist/Shery.css" /> -->
